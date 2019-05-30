@@ -2,3 +2,7 @@ Please find the source code for the assignment questions in this repo. Compile w
 For eg., on a Windows command prompt run the following commands:
 1) g++.exe .\ListMax.cpp -o ListMax to build, and then,
 2) ListMax.exe to run and test the program
+For the Java programs,
+1) javac .\ListMax.java to compile
+2) java .\ListMax to run
+
